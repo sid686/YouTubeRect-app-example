@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/YouTubeRect-app-example/static/css/main.49b9acb8.chunk.css",
+    "main.js": "/YouTubeRect-app-example/static/js/main.77dd4886.chunk.js",
+    "main.js.map": "/YouTubeRect-app-example/static/js/main.77dd4886.chunk.js.map",
+    "runtime-main.js": "/YouTubeRect-app-example/static/js/runtime-main.cae89936.js",
+    "runtime-main.js.map": "/YouTubeRect-app-example/static/js/runtime-main.cae89936.js.map",
+    "static/js/2.3baf92a3.chunk.js": "/YouTubeRect-app-example/static/js/2.3baf92a3.chunk.js",
+    "static/js/2.3baf92a3.chunk.js.map": "/YouTubeRect-app-example/static/js/2.3baf92a3.chunk.js.map",
+    "index.html": "/YouTubeRect-app-example/index.html",
+    "static/css/main.49b9acb8.chunk.css.map": "/YouTubeRect-app-example/static/css/main.49b9acb8.chunk.css.map",
+    "static/js/2.3baf92a3.chunk.js.LICENSE.txt": "/YouTubeRect-app-example/static/js/2.3baf92a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae89936.js",
+    "static/js/2.3baf92a3.chunk.js",
+    "static/css/main.49b9acb8.chunk.css",
+    "static/js/main.77dd4886.chunk.js"
+  ]
+}
